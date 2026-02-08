@@ -33,7 +33,3 @@ url = "http://www.tiktok.com/@namezarthur"
 icon = "https://cdn.simpleicons.org/youtube"
 title = "Youtube"
 url = "https://youtube.com/@arthurvlogsnow?si=y0tNsEunUd9d77BD"
-[[sections.items]]
-title = "Linked in"
-icon = ".github/workflows/linknlogo.png"
-url = "www.linkedin.com/in/arthur-kreiter-5ab7242ab"
