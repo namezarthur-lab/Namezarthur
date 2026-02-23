@@ -13,7 +13,7 @@ title = "My Latest Video"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+embed_url = "https://youtu.be/Q3pyX5WclEQ"
 
 [[sections]]
 title = "Links"
